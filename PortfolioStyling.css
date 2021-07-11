@@ -116,7 +116,7 @@ h3 {
   }
 
   .intro__img {
-    grid-area: i
+    grid-area: img;
     min-width: 250px;
 
 }
